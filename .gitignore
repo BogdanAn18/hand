@@ -1,0 +1,11 @@
+# Arduino IDE временные файлы
+*.bak
+*.tmp
+build/
+
+# VS Code (если не хотите засорять репозиторий)
+.vscode/
+
+# Системные файлы
+Thumbs.db
+.DS_Store
